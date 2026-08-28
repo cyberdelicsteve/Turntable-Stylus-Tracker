@@ -22,32 +22,29 @@ This is a turntable stylus tracker that I have designed to track hours used on a
 <h2>Project walk-through:</h2>
 
 <p align="center">
-Ignore the following, I am keeping it as a placeholder from Josh Madakors project to help better fill in my own information: <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Initial setup <br/>
+Plug in the Arduino Nano to a computer via USB, and using the Arduino IDE, copy the code to the Arduino.
 <br />
 <br />
-Select the disk:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Wiring diagram:  <br/>
+Solder the following connections:<br />
+Arduino Side > OLED Side<br />
+ 5v > VCC<br />
+ GND > GND<br />
+ A4 > SDA<br />
+ A5 > SCL<br />
+<br />
+Arduino Side > Buttons<br />
+ GND > Both Negatives(-) on buttons<br />
+ D2 > Button 1 Positive(+)<br />
+ D3 > Button 2 Positive(+)<br />
 <br />
 <br />
-Enter the number of passes: <br/>
+<!-- Enter the number of passes: <br/>
 <img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Confirm your selection:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Sanitization complete:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+--!>
 </p>
 
 <!--
