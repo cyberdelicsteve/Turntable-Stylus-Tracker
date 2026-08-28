@@ -12,12 +12,14 @@ This is a turntable stylus tracker that I have designed to track hours used on a
 - <b>Arduino IDE</b> 
 
 <h2>Parts Used </h2>
+These are NOT affiliate links, just a link to where I purchased each part.</b>
+Feel free to find your own, but check the dimensions and compatability, you assume the risk of making your own edits. </b>
 
-- <b>Arduino Nano</b>
-- <b>SSD1306 1" OLED display</b>
-- <b>Momentary Push Buttons (x2)</b>
+- <b>[Arduino Nano](https://www.ebay.com/itm/196416785218)</b>
+- <b>[SSD1306 1" OLED display](https://www.amazon.com/dp/B0F5WPZJ92)</b>
+- <b>[2x Momentary Push Buttons (12mm diameter)](https://www.ebay.com/itm/389467741599)</b>
 - <b>22AWG Wire (x4)</b>
-- <b>5v USB C cable</b>
+- <b>5v USB-C cable</b>
 
 <h2>Project walk-through:</h2>
 
