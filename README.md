@@ -42,11 +42,10 @@ Arduino Side > Buttons<br />
  D3 > Button 2 Positive(+)<br />
 <br />
 <br />
-<!-- Enter the number of passes: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Visual Wiring Diagram: <br/>
+<img src="https://github.com/cyberdelicsteve/Turntable-Stylus-Tracker/blob/main/stylus-timer-wiring-diagram.jpg" height="80%" width="80%" alt="Wiring-Diagram"/>
 <br />
 <br />
---!>
 </p>
 
 <!--
