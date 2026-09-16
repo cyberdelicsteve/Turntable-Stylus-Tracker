@@ -1,6 +1,7 @@
 <h1>Turntable Stylus Tracker</h1>
 
  ### [YouTube Demonstration](Coming Soon)
+ 3D Printable case file coming soon. I will be updating this with project with more information, troubleshooting examples, and better information in the very near future.
 
 <h2>Description</h2>
 This is a turntable stylus tracker that I have designed to track hours used on a cartridge. This projects aims to be a beginnner DIY project that anyone can build for about $20 since there are currently no commercially available options.
